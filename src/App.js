@@ -1,6 +1,6 @@
 import { Component } from "react";
 import MovieCard from "./MovieCard";
-// import animeList from "./dummy-data";
+//import animeList from "./dummy-data";
 
 class App extends Component {
   constructor(props) {
